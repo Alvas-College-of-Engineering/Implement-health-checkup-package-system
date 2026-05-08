@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HealthCheckupApplication<checkup>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.health.checkup.HealthCheckupApplication",
+            "projectName": "checkup",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
